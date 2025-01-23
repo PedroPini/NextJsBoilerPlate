@@ -12,7 +12,7 @@
     "postinstall": "fumadocs-mdx"
   },
   "dependencies": {
-    "@ai-sdk/google": "^0.0.51",
+    "@ai-sdk/google": "^1.0.10",
     "@clerk/nextjs": "^5.3.4",
     "@google/generative-ai": "^0.20.0",
     "@nanostores/react": "github:ai/react",
@@ -29,7 +29,7 @@
     "@supabase/supabase-js": "^2.45.2",
     "@upstash/ratelimit": "^2.0.3",
     "@upstash/redis": "^1.34.0",
-    "ai": "^3.4.7",
+    "ai": "^3.4.33",
     "axios": "^1.7.7",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
